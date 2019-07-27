@@ -1,0 +1,5 @@
+Construir uma função que recebe uma fila de inteiros e devolve uma fila com os pares e outra com os impares
+da primeira 
+
+Faça uma função para intercalar filas: a função recebe as duas filas e retorna a fila com elementos
+das duas filas intercalados conforme a ordem com que elas se dispoe na fila;
